@@ -1,0 +1,5 @@
+# Ignore CSV files
+*.csv
+
+# Ignore specific dataset
+training_dataset.csv
